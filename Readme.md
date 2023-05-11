@@ -1,5 +1,9 @@
 # Rust Notes
 
+## Keys Finder in rust-lang
+
+This is a quick demo to find all `.pem` keys in your file system as an exploration to rust-lang programming.
+
 ## Project Management
 
 ```
